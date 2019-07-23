@@ -13,10 +13,20 @@
     - decorators
     - files
 
+- Documentation
+    - Soft documentation
+    - API documentation (pdoc3)
+
 - Testing
     - unittest
     - pytest
     - property based tests: hypothesis
+
+- CI
+    - Travis
+
+- Publishing packages
+    - pypi
 
 - Parallel/Concurrent Programming Basics
     - sequential programming
@@ -28,6 +38,7 @@
 - Version Control
     - git
     - github flow
+
 
 - Databases
     - Redis basics
@@ -43,6 +54,8 @@
     - Flask
         - Router
         - Jinja
+    - Deployment
+        - Heroku
     
 
 - Projects
