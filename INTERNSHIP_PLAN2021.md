@@ -14,3 +14,12 @@ Create a simple web application,a TO-DO app to create, list, and edit TO-DO list
 - Frontend:
   - vue.js
 - Use of Docker (create image, docker-compose up to start and run)
+
+
+# WEEK 2
+Get introduced to kubernetes and helm. Deploy locally using k3s and helm the application created from week 1.
+
+## Tech Stack
+- k3s (kubernetes)
+- helm (usage of helm charts)
+- application from week 1
