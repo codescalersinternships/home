@@ -23,3 +23,15 @@ Get introduced to kubernetes and helm. Deploy locally using k3s and helm the app
 - k3s (kubernetes)
 - helm (usage of helm charts)
 - application from week 1
+
+# Week 3 
+continue on week 2 progress
+
+# Week 4
+Add github oauth to the previously done application. If no users were introduced before, then users can be added to the database architecture
+
+# Week 5
+Add login via Threefold connect and Threefold connect application
+
+## Tech stack
+- Threefold connect mobile application (registration required)
