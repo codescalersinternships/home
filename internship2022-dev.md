@@ -1,15 +1,15 @@
 # First week
-Python
-Go 
-Linux intro
-Threefold Grid Intro
-Creating virtual machines
-Deploying a static website
-Certificates
-Terraform
-Playground
-Make-like tool (extra)
-Redis protocol (extra)
+- Python
+- Go 
+- Linux intro
+- Threefold Grid Intro
+- Creating virtual machines
+- Deploying a static website
+- Certificates
+- Terraform
+- Playground
+- Make-like tool (extra)
+- Redis protocol (extra)
 ## Creating a Python project
 - Poetry
 - Makefilesa
