@@ -11,6 +11,10 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 - https://raft.github.io
 - https://en.wikipedia.org/wiki/Raft_(algorithm)
 
+## binary serialization
+- https://capnproto.org/
+- https://google.github.io/flatbuffers/
+- https://developers.google.com/protocol-buffers
 
 ## linux 
 - effective shell: https://effective-shell.com
@@ -18,7 +22,11 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 - [nginx](https://www.nginx.com/)
 - [debian handbook](https://debian-handbook.info)
 - [tmux](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
-
+- [building root filesystem](https://emreboy.wordpress.com/2012/12/20/building-a-root-file-system-using-busybox/)
+- [coredns](https://coredns.io)
+- https://www.nginx.com/blog/what-are-namespaces-cgroups-how-do-they-work/ 
+- https://www.youtube.com/watch?v=8fi7uSYlOdc
+- https://blog.lizzie.io/linux-containers-in-500-loc.html
 
 ## dev
 
@@ -46,6 +54,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 
 ### Redis
+- [redis university](https://university.redis.com)
 - [redis in action](https://redislabs.com/redis-in-action/) is a book that will help you to know redis by practice.
 - The following topics are important to know about Redis:
   - Data structures
@@ -78,6 +87,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 - Trunk based development https://trunkbaseddevelopment.com/
 - Github flow https://docs.github.com/en/get-started/quickstart/github-flow
 - How to write a bug report https://www.softwaretestinghelp.com/how-to-write-good-bug-report/
+- 12 factor apps https://12factor.net
 
 ### Selenium
 
@@ -115,6 +125,7 @@ https://github.com/threefoldfoundation/info_manual3/blob/development/wiki/weblet
 - https://www.youtube.com/watch?v=3c-iBn73dDE
 - https://www.youtube.com/watch?v=pTFZFxd4hOI
 - https://www.youtube.com/watch?v=HG6yIjZapSA
+- https://www.youtube.com/watch?v=PrusdhS2lmo
 - multistaged builds https://fabianlee.org/2020/01/26/golang-using-multi-stage-builds-to-create-clean-docker-images/
 
 - https://www.youtube.com/watch?v=X48VuDVv0do
