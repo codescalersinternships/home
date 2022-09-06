@@ -26,7 +26,8 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 - [coredns](https://coredns.io)
 - https://www.nginx.com/blog/what-are-namespaces-cgroups-how-do-they-work/ 
 - https://www.youtube.com/watch?v=8fi7uSYlOdc
-- https://blog.lizzie.io/linux-containers-in-500-loc.html
+- [build container in 500Lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+- [unix programming](https://stevens.netmeister.org/631/#syllabus)
 
 ## dev
 
@@ -36,7 +37,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 - [learn with tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [go101](https://go101.org/article/101.html)
 - [ultimatego](https://github.com/hoanhan101/ultimate-go)
-
+- [bitcask paper](https://riak.com/assets/bitcask-intro.pdf)
 
 
 ### python
@@ -132,6 +133,6 @@ https://github.com/threefoldfoundation/info_manual3/blob/development/wiki/weblet
 - Lens IDE https://www.youtube.com/watch?v=VOruC2tQbmw
 - [Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
-## UNIX programming 
-- https://stevens.netmeister.org/631/#syllabus
 
+## networking
+- [CCNA/CCNP](https://www.youtube.com/playlist?list=PL77yNtB4-LjnN2FU3h1v5hIJOHZfW9ugq)
