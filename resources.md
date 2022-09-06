@@ -43,6 +43,8 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 ### python
 - [creating package in 2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022)
 - [python](https://docs.python.org/3/tutorial/index.html)
+- [django tutorial](https://docs.djangoproject.com/en/4.1/intro/tutorial01/)
+- [django rest framework DRF](https://www.django-rest-framework.org/)
 - [pymotw](https://pymotw.com/3/) 
 - [jinja](https://jinja.palletsprojects.com/en/2.10.x/)
 - [bottle](https://bottlepy.org/docs/dev/)
@@ -136,3 +138,7 @@ https://github.com/threefoldfoundation/info_manual3/blob/development/wiki/weblet
 
 ## networking
 - [CCNA/CCNP](https://www.youtube.com/playlist?list=PL77yNtB4-LjnN2FU3h1v5hIJOHZfW9ugq)
+
+
+## Threefold
+- [knowledge base](https://library.threefold.me)
