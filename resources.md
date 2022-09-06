@@ -5,29 +5,6 @@
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 
-## Raft/Distributed systems
-- https://learn.particular.net/courses/distributed-systems-design-fundamentals-online
-- slides: https://thesecretlivesofdata.com/raft/
-- https://raft.github.io
-- https://en.wikipedia.org/wiki/Raft_(algorithm)
-
-## binary serialization
-- https://capnproto.org/
-- https://google.github.io/flatbuffers/
-- https://developers.google.com/protocol-buffers
-
-## linux 
-- effective shell: https://effective-shell.com
-- [ubuntu server guide](https://help.ubuntu.com/lts/serverguide/)
-- [nginx](https://www.nginx.com/)
-- [debian handbook](https://debian-handbook.info)
-- [tmux](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
-- [building root filesystem](https://emreboy.wordpress.com/2012/12/20/building-a-root-file-system-using-busybox/)
-- [coredns](https://coredns.io)
-- https://www.nginx.com/blog/what-are-namespaces-cgroups-how-do-they-work/ 
-- https://www.youtube.com/watch?v=8fi7uSYlOdc
-- [build container in 500Lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
-- [unix programming](https://stevens.netmeister.org/631/#syllabus)
 
 ## dev
 
@@ -139,6 +116,31 @@ https://github.com/threefoldfoundation/info_manual3/blob/development/wiki/weblet
 ## networking
 - [CCNA/CCNP](https://www.youtube.com/playlist?list=PL77yNtB4-LjnN2FU3h1v5hIJOHZfW9ugq)
 
+
+
+## linux 
+- effective shell: https://effective-shell.com
+- [ubuntu server guide](https://help.ubuntu.com/lts/serverguide/)
+- [nginx](https://www.nginx.com/)
+- [debian handbook](https://debian-handbook.info)
+- [tmux](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
+- [building root filesystem](https://emreboy.wordpress.com/2012/12/20/building-a-root-file-system-using-busybox/)
+- [coredns](https://coredns.io)
+- https://www.nginx.com/blog/what-are-namespaces-cgroups-how-do-they-work/ 
+- https://www.youtube.com/watch?v=8fi7uSYlOdc
+- [build container in 500Lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+- [unix programming](https://stevens.netmeister.org/631/#syllabus)
+- 
+## Raft/Distributed systems
+- https://learn.particular.net/courses/distributed-systems-design-fundamentals-online
+- slides: https://thesecretlivesofdata.com/raft/
+- https://raft.github.io
+- https://en.wikipedia.org/wiki/Raft_(algorithm)
+
+## binary serialization
+- https://capnproto.org/
+- https://google.github.io/flatbuffers/
+- https://developers.google.com/protocol-buffers
 
 ## Threefold
 - [knowledge base](https://library.threefold.me)
