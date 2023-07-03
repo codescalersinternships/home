@@ -1,7 +1,7 @@
 ## Internship 2023
 
 ### Dev track
-details [internship QA](./internship-dev-2023.md)
+details [internship DEV](./internship-dev-2023.md)
 
 
 ### QA track
