@@ -1,0 +1,40 @@
+- shell scripting
+- cron jobs
+- systemd (units, journal,, .. etc)
+- logs
+- nginx/apache
+- certificates
+- ssh, ssh-agent, .. etc
+- linux programming (users, groups, processes, threading, IPC, synchronization, signals, .. etc)
+- linux administration topics
+- linux tools 
+- redis (types, streams, pubsub, caching, .. etc)
+- rpc systems 
+- msgpack, capnp, protobuf
+- grpc based services
+- monogdb 
+- postgresql specific topics 
+- cgroups, namespaces
+- building linux images
+- testing (unittest, mocking, integration, e2e) (in different languages)
+- http servers testing, http clients testings
+- swagger
+- postman
+- vue3
+- typescript topics
+- networking
+- kubernetes based topics
+- monitoring (prometheus, grafana)
+- blockchain (bitcoin, eth, substrate, cosmos, tendermint)
+- github actions
+- terraform testing
+- monorepos
+- dart topics
+- flutter
+- rust topics
+- go topics
+- packer
+- architecture
+- algorithms/data structures
+- concurrency patterns
+- qemu 
