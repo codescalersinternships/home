@@ -109,13 +109,13 @@ Testing session: https://docs.google.com/presentation/d/1ljUyCXWN-ZF3FyNDUOYXoyO
 
 ## Week 6, 7, 8 projects
 - Plumi plugin
-- TF Images automation
+- TF Images automation *
 - Threefold DMCC
-- GPU services integration
+- GPU services integration *
 - ZOS4? 
 - Bridges improvements
 - Freeflow twin 
-- Threefold Connect
+- Threefold Connect *
 - Planetary Desktop App
 
 
