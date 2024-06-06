@@ -148,6 +148,7 @@ Testing session: https://docs.google.com/presentation/d/1ljUyCXWN-ZF3FyNDUOYXoyO
 - Encryption (symmetric/asymmetric)
 - 12 factor apps https://12factor.net
 - Github flow https://docs.github.com/en/get-started/quickstart/github-flow
+- Building a small busybox based distro
 
 ## daily work 
 - write your own git: https://leshenko.net/p/ugit/#
