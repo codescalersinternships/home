@@ -2,6 +2,7 @@
 
 - Go fundamentals 
 - Typescript fundamentals
+- coreutils: echo, env, cat, wc, head, tail, yes, true, false, tree
 - Testing fundamentals
 - INI Parser project
 - Discipline
