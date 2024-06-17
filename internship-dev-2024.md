@@ -2,7 +2,7 @@
 
 - Go fundamentals 
 - Typescript fundamentals
-- coreutils: echo, env, cat, wc, head, tail, yes, true, false, tree
+- coreutils: `echo, env, cat, wc, head, tail, yes, true, false, tree` (use gobyexample to speed up things)
 - Testing fundamentals
 - INI Parser project
 - Discipline
@@ -28,6 +28,7 @@
 - REST API
 - Swagger
 - Postman
+- pokemon API https://pokeapi.co/ (create http client for pokemon API + tests)
 
 ### Resources 
 
@@ -44,12 +45,10 @@
 
 ## Week 3
 
-- Backend (pastebin)
+- Backend (pastebin) (needs to have authentication so i can view my pastes as well)
 - Backend testing
 - Dockerize the backend
 
-
-### Resources 
 
 ## Week 4:
 
@@ -65,8 +64,6 @@
 - Frontend track https://github.com/MohamedElmdary/cat-frontend-circle-road-map
 - https://github.com/MohamedElmdary/frontend-session-resources
 - [Vue.js](https://vuejs.org/)
-
-
 
 
 ### Resources 
