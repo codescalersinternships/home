@@ -4,7 +4,7 @@
 
 ### CS61A: Structure and Interpretation of Computer Programs
 - Course: https://cs61a.org
-- Textbook: [Composing Programs](https://composingprograms.com/)
+- Textbook: [Composing Programs](https://www.composingprograms.com)
 - Duration: 4-6 weeks
 - Topics:
   - Functional programming
