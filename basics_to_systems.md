@@ -55,7 +55,7 @@
 
 ## 4. Practical Projects
 ### Building Coreutils
-- Duration: 2 weeks
+- Duration: 1 week
 - Project: Implement basic versions of common UNIX utilities in Go
 - Utilities to implement:
   - cat, echo, head, tail, wc, grep, sort, uniq, yes, true, false
@@ -67,17 +67,17 @@
 
 
 ### INI Parser Project
-- Duration: 1-2 weeks
+- Duration: 1 week
 - Project: Build a parser for INI configuration files
 
 
 ### DMI Decode Project
-- Duration: 2 weeks
+- Duration: 1-2 weeks
 - Project: Implement a tool to decode DMIdecode output
 
 
 ### Make-like Project
-- Duration: 2 weeks
+- Duration: 1 week
 - Project: Create a simple build system similar to Make
 - Skills:
   - Dependency graph creation and traversal
@@ -85,7 +85,7 @@
 
 
 ### Redis-based Server/Client Implementation
-- Duration: 3-4 weeks
+- Duration: 2-3 weeks
 - Project: Build a simple RPC server and client based on Redis protocol
 - Skills:
   - Network programming
