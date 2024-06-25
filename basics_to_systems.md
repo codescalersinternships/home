@@ -10,7 +10,8 @@
   - Functional programming
   - Object-oriented programming
   - Data structures
-  - Recursion and tree recursion
+  - Recursion
+  - DB
   - Interpreters
 
 
