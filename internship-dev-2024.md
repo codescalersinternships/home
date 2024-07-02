@@ -1,11 +1,15 @@
+## intro 
+This is a rough plan of the development internship program for 2024 -8 to 10 weeks program-. The intern need to be able to reason about the code, and be able to write tests (units and integration), then they should be able to contribute to the daily work with the team.
+
+
 ## Week 1
 
 - Go fundamentals 
 - Typescript fundamentals
-- coreutils: `echo, env, cat, wc, head, tail, yes, true, false, tree` (use gobyexample to speed up things)
+- coreutils https://github.com/codescalersinternships/home/issues/105: `echo, env, cat, wc, head, tail, yes, true, false, tree` (use gobyexample to speed up things)
 - Testing fundamentals
-- INI Parser project
-- Discipline
+- INI Parser project with tests https://github.com/codescalersinternships/home/issues/21
+- Github workflows
 
 
 ### resources 
@@ -22,13 +26,16 @@
 ## Week 2
 - How to write a bug report https://www.softwaretestinghelp.com/how-to-write-good-bug-report/
 - Manual Testing 
-- Github workflows
-- Apply on week 1
-- Makefile project
+- Datetime server https://github.com/codescalersinternships/home/issues/144
+- HTTP Service testing
+- Docker
+- Docker compose
+- DateTime http client https://github.com/codescalersinternships/home/issues/145
 - REST API
 - Swagger
 - Postman
-- pokemon API https://pokeapi.co/ (create http client for pokemon API + tests)
+- pokemon API https://pokeapi.co/ (create http client for pokemon API + tests) https://github.com/codescalersinternships/home/issues/146
+- Deployment of Datetime server https://github.com/codescalersinternships/home/issues/154
 
 ### Resources 
 
@@ -39,37 +46,7 @@
 - https://www.youtube.com/watch?v=HG6yIjZapSA
 - https://www.youtube.com/watch?v=PrusdhS2lmo
 - multistaged builds https://fabianlee.org/2020/01/26/golang-using-multi-stage-builds-to-create-clean-docker-images/
-
 - https://www.youtube.com/watch?v=X48VuDVv0do
-
-
-## Week 3
-
-- Backend (pastebin) (needs to have authentication so i can view my pastes as well)
-- Backend testing
-- Dockerize the backend
-
-
-## Week 4:
-
-- Vue3
-- Pastebin frontend 
-- Dockerize the frontend
-- Docker compose
-- Frontend testing
-
-
-### Resources
-
-- Frontend track https://github.com/MohamedElmdary/cat-frontend-circle-road-map
-- https://github.com/MohamedElmdary/frontend-session-resources
-- [Vue.js](https://vuejs.org/)
-
-
-### Resources 
-
-
-### docker/docker-compose
 - docker docs https://docs.docker.com/engine/install/ubuntu/
 - https://www.youtube.com/watch?v=3c-iBn73dDE
 - https://www.youtube.com/watch?v=pTFZFxd4hOI
@@ -79,49 +56,51 @@
 
 - https://www.youtube.com/watch?v=X48VuDVv0do
 
+## Week 3
 
+- Secret Note MVC https://github.com/codescalersinternships/home/issues/153 (1 day)
+- Secret Note API https://github.com/codescalersinternships/home/issues/152 1 day
+- Frontend https://github.com/codescalersinternships/home/issues/152 2 days
 
+### Resources
 
-#### Selenium
-
-https://selenium-python.readthedocs.io/locating-elements.html
-
-https://www.toolsqa.com/selenium-webdriver/selenium-locators/
-
-
-#### cypress
-
+- Frontend track https://github.com/MohamedElmdary/cat-frontend-circle-road-map
+- https://github.com/MohamedElmdary/frontend-session-resources
+- [Vue.js](https://vuejs.org/)
+- https://selenium-python.readthedocs.io/locating-elements.html
+- https://www.toolsqa.com/selenium-webdriver/selenium-locators/
 - https://filiphric.com/cypress-basics-selecting-elements
 - Cypress https://testautomationu.applitools.com/advanced-cypress-tutorial/
 
 Testing session: https://docs.google.com/presentation/d/1ljUyCXWN-ZF3FyNDUOYXoyOrEagy_DoXWeL5wDMF47Y/edit?usp=sharing
 
-## Week 5
+## Week 4
 
 - Namespaces, CGroups, Docker
 - Intro to TFGrid
 - Terraform
 - Rust fundamentals 
 
+## Week 5-end of internship week 10 distributed on teams (sdk-go, zos, sdk-ts, sdk-dart)
 
-## Week 6-end of internship distributed on teams (sdk-go, zos, sdk-ts, sdk-dart)
-
-- 4 solutions 
+- 4 solutions
 - GPU services integration *
 - ZOS service rewrites in rust
-- Freeflow twin 
+- Freeflow twin
 - Threefold Connect *
 - Planetary Desktop/mobile App
 - Increase code coverage
 - Deployments web builder (drag/drop)
-- IaC 
+- IaC
 - heroku like system on the grid maybe? gridify pushing forward
 
 
 ## Extras
 
-- [bitcask paper](https://riak.com/assets/bitcask-intro.pdf)
+- [bitcask paper](https://github.com/codescalersinternships/home/issues/37)
 - Extra: RESP Parser
+- NTP https://github.com/codescalersinternships/home/issues/141
+- BMP Width/Height https://github.com/codescalersinternships/home/issues/142
 
 
 ## Sessions
