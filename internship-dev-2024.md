@@ -24,8 +24,7 @@ This is a rough plan of the development internship program for 2024 -8 to 10 wee
 
 
 ## Week 2
-- How to write a bug report https://www.softwaretestinghelp.com/how-to-write-good-bug-report/
-- Manual Testing 
+
 - Datetime server https://github.com/codescalersinternships/home/issues/144
 - HTTP Service testing
 - Docker
@@ -76,10 +75,14 @@ Testing session: https://docs.google.com/presentation/d/1ljUyCXWN-ZF3FyNDUOYXoyO
 
 ## Week 4
 
+- Intro to Codescalers and TFGrid Platform
+- How to write a bug report https://www.softwaretestinghelp.com/how-to-write-good-bug-report/
+- Manual Testing 
 - Namespaces, CGroups, Docker
-- Intro to TFGrid
-- Terraform
-- Rust fundamentals 
+- The Dashboard and deploying your first machine on the threefold grid)
+- Terraform and deploying your virtual machines machines on the threefold grid)
+- Rust fundamentals
+- Manually Testing the platform  
 
 ## Week 5-end of internship week 10 distributed on teams (sdk-go, zos, sdk-ts, sdk-dart)
 
