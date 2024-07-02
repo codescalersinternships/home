@@ -73,7 +73,8 @@ This is a rough plan of the development internship program for 2024 -8 to 10 wee
 
 Testing session: https://docs.google.com/presentation/d/1ljUyCXWN-ZF3FyNDUOYXoyOrEagy_DoXWeL5wDMF47Y/edit?usp=sharing
 
-## Week 4
+## Week 4 (onboarding to threefold)
+Starting from that week the intern should be able to write testable code and can be introduced to our platform and projects. Best intro the platform by manually testing the capabilities and reporting issues on the normal of the enduser. 
 
 - Intro to Codescalers and TFGrid Platform
 - How to write a bug report https://www.softwaretestinghelp.com/how-to-write-good-bug-report/
@@ -82,7 +83,7 @@ Testing session: https://docs.google.com/presentation/d/1ljUyCXWN-ZF3FyNDUOYXoyO
 - The Dashboard and deploying your first machine on the threefold grid)
 - Terraform and deploying your virtual machines machines on the threefold grid)
 - Rust fundamentals
-- Manually Testing the platform  
+- Manually Testing the platform (intro to testlodge -qa tool we use to develop and track our tests-)
 
 ## Week 5-end of internship week 10 distributed on teams (sdk-go, zos, sdk-ts, sdk-dart)
 
