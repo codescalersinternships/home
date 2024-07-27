@@ -66,6 +66,7 @@ This is a rough plan of the development internship program for 2024 -8 to 10 wee
 - Frontend track https://github.com/MohamedElmdary/cat-frontend-circle-road-map
 - https://github.com/MohamedElmdary/frontend-session-resources
 - [Vue.js](https://vuejs.org/)
+- [React Megatutorial](https://blog.miguelgrinberg.com/post/the-react-mega-tutorial-chapter-1-modern-javascript)
 - https://selenium-python.readthedocs.io/locating-elements.html
 - https://www.toolsqa.com/selenium-webdriver/selenium-locators/
 - https://filiphric.com/cypress-basics-selecting-elements
