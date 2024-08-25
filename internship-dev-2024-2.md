@@ -3,13 +3,11 @@ This is a rough plan of the development internship program for 2024 -8 to 10 wee
 
 
 ## Week 0
-- Linux Intro/Essentials https://lym.readthedocs.io/en/latest/
+- https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J ( lect 1-7)
 - Effective Shell: https://effective-shell.com
-- Package management
-- Users/Groups
+- Linux Intro/Essentials https://lym.readthedocs.io/en/latest/
 - Reading manpages of `echo, env, cat, wc, head, tail, yes, true, false, tree`
 - git https://www.atlassian.com/git
-- https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J ( lect 1-7)
 
 ### extra
 - audit courses https://www.coursera.org/professional-certificates/google-it-support
