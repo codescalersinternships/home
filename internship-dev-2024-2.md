@@ -7,7 +7,7 @@ This is a rough plan of the development internship program for 2024 -8 to 10 wee
 - Effective Shell: https://effective-shell.com
 - Linux Intro/Essentials https://lym.readthedocs.io/en/latest/ (till Linux Services, package management (apt only), networking commands)
 - Reading manpages of `echo, env, cat, wc, head, tail, yes, true, false, tree`
-- git https://www.atlassian.com/git
+- git https://www.atlassian.com/git (branches, commit, log, merge, rebase, tag, github flow)
 
 ### extra
 - audit courses https://www.coursera.org/professional-certificates/google-it-support
