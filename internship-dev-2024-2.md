@@ -39,7 +39,7 @@ This is a rough plan of the development internship program for 2024 -8 to 10 wee
 - [ultimatego](https://github.com/hoanhan101/ultimate-go)
 
 
-## Week 2
+## Week 3
 
 - Datetime server https://github.com/codescalersinternships/home/issues/144
 - HTTP Service testing
@@ -47,7 +47,7 @@ This is a rough plan of the development internship program for 2024 -8 to 10 wee
 - build your own git https://leshenko.net/p/ugit/# (5 steps)
 
 
-## Week 3
+## Week 4
 
 - Docker
 - Docker compose
@@ -77,17 +77,17 @@ This is a rough plan of the development internship program for 2024 -8 to 10 wee
 
 - https://www.youtube.com/watch?v=X48VuDVv0do
 
-## Week 4
+## Week 5
 
 - Secret Note MVC https://github.com/codescalersinternships/home/issues/153
 - build your own git https://leshenko.net/p/ugit/# (5 steps)
 
 
-## Week 5
+## Week 6
 
 - Secret Note API https://github.com/codescalersinternships/home/issues/152
 
-## Week 6
+## Week 7
 - Frontend https://github.com/codescalersinternships/home/issues/152
 - build your own git https://leshenko.net/p/ugit/# (5 steps)
 
@@ -105,7 +105,7 @@ This is a rough plan of the development internship program for 2024 -8 to 10 wee
 
 Testing session: https://docs.google.com/presentation/d/1ljUyCXWN-ZF3FyNDUOYXoyOrEagy_DoXWeL5wDMF47Y/edit?usp=sharing
 
-## Week 7 (onboarding to threefold)
+## Week 8 (onboarding to threefold)
 Starting from that week the intern should be able to write testable code and can be introduced to our platform and projects. Best intro the platform by manually testing the capabilities and reporting issues on the normal of the enduser. 
 
 - Intro to Codescalers and TFGrid Platform
@@ -117,7 +117,7 @@ Starting from that week the intern should be able to write testable code and can
 - Rust fundamentals
 - Manually Testing the platform (intro to testlodge -qa tool we use to develop and track our tests-)
 
-## Week 8-end of internship week 10 distributed on teams (sdk-go, zos, sdk-ts, sdk-dart)
+## Week 9-end of internship week 10 distributed on teams (sdk-go, zos, sdk-ts, sdk-dart)
 
 - 4 solutions
 - GPU services integration *
