@@ -137,12 +137,16 @@ Starting from that week the intern should be able to write testable code and can
 - heroku like system on the grid maybe? gridify pushing forward
 
 
-## Extras
+## Extra tasks
 
-- [bitcask paper](https://github.com/codescalersinternships/home/issues/37)
-- Extra: RESP Parser
+- RESP Parser https://github.com/codescalersinternships/home/issues/275
+- dotenv https://github.com/codescalersinternships/home/issues/208
+- Makego https://github.com/codescalersinternships/home/issues/157
+- Busybox img https://github.com/codescalersinternships/home/issues/103
 - NTP https://github.com/codescalersinternships/home/issues/141
 - BMP Width/Height https://github.com/codescalersinternships/home/issues/142
+- Msgpack https://github.com/codescalersinternships/home/issues/240
+- [bitcask paper](https://github.com/codescalersinternships/home/issues/37)
 
 
 ## Sessions
