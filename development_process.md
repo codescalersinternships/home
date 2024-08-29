@@ -9,7 +9,7 @@
 ## Working on a New Task
 
 1. Duplicate the task template in the home repository as `$taskname-$yourname` (e.g., `Coreutils-AhmedThabet`).
-2. Set up a repository in the `codescalersinternships` organization with the name `$taskname-$yourname` (e.g., `Coreutils-AhmedThabet`).
+2. Create a repository in the `codescalersinternships` organization with the name `$taskname-$yourname` (e.g., `Coreutils-AhmedThabet`).
 3. Create two branches: `main` and `development`.
 4. Develop on the `development` branch.
 5. Submit a pull request to the `main` branch.
@@ -32,3 +32,8 @@ Use [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for y
 - Documentation: Clear and concise documentation is provided, explaining the code's purpose, usage, and any relevant details.
 - Functionality: The code meets the specified requirements and performs the intended tasks.
 
+
+## Scrum and Availability
+
+- Standups: Participate in daily standups at 10 AM Cairo Time. Briefly discuss your progress, current tasks, and any blockers.
+- Availability: Be available during the core working hours of 10 AM to 6 PM.

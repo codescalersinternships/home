@@ -3,6 +3,9 @@ This is a rough plan of the development internship program for 2024 -8 to 10 wee
 
 
 ## Week 0
+
+In this week we spend some time to get familiar with the basics of linux, git, shell, and how to read the documentation
+
 - https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J ( lect 1-7)
 - Effective Shell: https://effective-shell.com
 - Linux Intro/Essentials https://lym.readthedocs.io/en/latest/ (till Linux Services, package management (apt only), networking commands)
@@ -15,41 +18,44 @@ This is a rough plan of the development internship program for 2024 -8 to 10 wee
 
 ## Week 1
 
-- Go fundamentals 
+We get our feet with learning the fundamentals of Go, and start developing small utilities in Go.
+
+- Go fundamentals [gobyexample](https://gobyexample.com)
 - coreutils https://github.com/codescalersinternships/home/issues/105: `echo, env, cat, wc, head, tail, yes, true, false, tree` (use gobyexample to speed up things)
-- [gobyexample](https://gobyexample.com)
 - build your own git https://leshenko.net/p/ugit/# (5 steps)
 
 
 ## Week 2
-- Testing fundamentals
-- INI Parser project with tests https://github.com/codescalersinternships/home/issues/21
-- Github workflows
-- [learn with tests](https://quii.gitbook.io/learn-go-with-tests/)
+
+We introduce you to the testing, writing unit tests, configuring github workflows.
+
+- [learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
+- INI Parser project with tests https://github.com/codescalersinternships/home/issues/21 
+- Github [Workflows](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
 - build your own git https://leshenko.net/p/ugit/# (5 steps)
-
-
-### resources
-- [context package](https://medium.com/rungo/understanding-the-context-package-b2e407a9cdae)
-- [Workflows](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
-
-
-### Extra
-- [go101](https://go101.org/article/101.html)
-- [ultimatego](https://github.com/hoanhan101/ultimate-go)
 
 
 ## Week 3
 
+In this week we develop a small http service and we cover how to test it and how to build a client to consume its api
+
 - Datetime server https://github.com/codescalersinternships/home/issues/144
 - HTTP Service testing
 - DateTime http client https://github.com/codescalersinternships/home/issues/145
+- [context package](https://medium.com/rungo/understanding-the-context-package-b2e407a9cdae)
 - build your own git https://leshenko.net/p/ugit/# (5 steps)
 
+### Extra
+
+- [go101](https://go101.org/article/101.html)
+- [ultimatego](https://github.com/hoanhan101/ultimate-go)
 
 ## Week 4
 
+In this week we get familiar with docker and docker compose, what they do, and how to build a docker image, and how to reduce its size. Then we go through REST API, Swagger, and Postman. and we will build a small client that consumes the pokemon Restful API service. 
+
 - Docker
+- Multistaged builds https://fabianlee.org/2020/01/26/golang-using-multi-stage-builds-to-create-clean-docker-images/
 - Docker compose
 - REST API
 - Swagger
@@ -57,16 +63,13 @@ This is a rough plan of the development internship program for 2024 -8 to 10 wee
 - pokemon API https://pokeapi.co/ (create http client for pokemon API + tests) https://github.com/codescalersinternships/home/issues/146
 - build your own git https://leshenko.net/p/ugit/# (5 steps)
 
-
-
-### Resources 
+### Resources
 
 - docker docs https://docs.docker.com/engine/install/ubuntu/
 - https://www.youtube.com/watch?v=3c-iBn73dDE
 - https://www.youtube.com/watch?v=pTFZFxd4hOI
 - https://www.youtube.com/watch?v=HG6yIjZapSA
 - https://www.youtube.com/watch?v=PrusdhS2lmo
-- multistaged builds https://fabianlee.org/2020/01/26/golang-using-multi-stage-builds-to-create-clean-docker-images/
 - https://www.youtube.com/watch?v=X48VuDVv0do
 - docker docs https://docs.docker.com/engine/install/ubuntu/
 - https://www.youtube.com/watch?v=3c-iBn73dDE
@@ -74,10 +77,12 @@ This is a rough plan of the development internship program for 2024 -8 to 10 wee
 - https://www.youtube.com/watch?v=HG6yIjZapSA
 - https://www.youtube.com/watch?v=PrusdhS2lmo
 - multistaged builds https://fabianlee.org/2020/01/26/golang-using-multi-stage-builds-to-create-clean-docker-images/
-
 - https://www.youtube.com/watch?v=X48VuDVv0do
+
 
 ## Week 5
+
+Here we introduce you to the concept of MVC.
 
 - Secret Note MVC https://github.com/codescalersinternships/home/issues/153
 - build your own git https://leshenko.net/p/ugit/# (5 steps)
@@ -85,10 +90,11 @@ This is a rough plan of the development internship program for 2024 -8 to 10 wee
 
 ## Week 6
 
+In this week we will redo the project as SPA, by providing two services: an API service and a frontend that consumes that API -next week-
 - Secret Note API https://github.com/codescalersinternships/home/issues/152
 
 ## Week 7
-- Frontend https://github.com/codescalersinternships/home/issues/152
+- Frontend https://github.com/codescalersinternships/home/issues/152 
 - build your own git https://leshenko.net/p/ugit/# (5 steps)
 
 
